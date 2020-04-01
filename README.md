@@ -24,6 +24,9 @@ countDownTimer = new CountDownTimer(timerSeekbar.getProgress() * 1000 + 100, 100
                     updateTimer((int) millisUntilFinished / 1000);
                 }
                 
-#### reference
+### Reference
 I am going to explain what is what , I give the link to read official android docu. 
 Click Here,<br/> https://developer.android.com/reference/android/os/CountDownTimer
+
+#### output
+<img src="https://github.com/prawinrajan/Timer-android-app/blob/master/Screenshot_20200401-115826.png" width="250" height="450" />
